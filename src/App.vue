@@ -9,7 +9,7 @@ import {
 } from 'element-plus'
 import type { UploadInstance, UploadProps, UploadRawFile } from 'element-plus'
 import { utils, read } from 'xlsx'
-import * as dayjs from 'dayjs'
+import dayjs from 'dayjs'
 
 const excelAccept =
   '.csv, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, application/vnd.ms-excel'
